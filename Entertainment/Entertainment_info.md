@@ -1,4 +1,4 @@
-# Dazzla - Voice Assistant for the Visually Impaired
+## Dazzla - Entertainment part
 
 ## Description:
 
