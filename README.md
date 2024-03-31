@@ -1,5 +1,5 @@
 # Digital_Dazzlers🌟
-# Dazzla VoiceBot: Virtual Assistance for Visually Challenged Peoples🤖💫
+# Dazzla VoiceBot: Virtual Assistant for Visually Challenged Peoples🤖💫
 
 ## Introduction
 
