@@ -1,20 +1,20 @@
-# Digital_Dazzlers
-# Dazzla VoiceBot: Empowering Visually Challenged Individuals with Voice-Enabled Bot
+# Digital_Dazzlers🌟
+# Dazzla VoiceBot: Empowering Visually Challenged Individuals with Voice-Enabled Bot 🤖💫
 
 ## Introduction
 
-Dazzla VoiceBot is a cutting-edge assistive technology designed to empower visually challenged individuals by providing them with a voice-enabled companion for navigating the world with confidence and independence. This README provides an overview of the project, its functionalities, architecture, and how it was built.
+🤖 Dazzla VoiceBot is a cutting-edge assistive technology designed to empower visually challenged individuals by providing them with a voice-enabled companion for navigating the world with confidence and independence. This README provides an overview of the project, its functionalities, architecture, and how it was built.
 
-## Features
+## Features ⚡
 
 - **Obstacle Detection:** Navigate surroundings safely with advanced technology using OpenVINO for real-time object detection and recognition.
 - **Health Tracking:** Effortlessly reminds fitness goals and activities.
 - **Communication:** Seamlessly connect with calls and WhatsApp Messages.
 - **Voice Synthesis:** Access information via clear, natural voice.
 
-## Demonstration
+## Demonstration 
 
-A demonstration video showcasing the functionalities of Dazzla VoiceBot is available [here].
+A demonstration video showcasing the functionalities of Dazzla VoiceBot is Here .
 
 ## Performances
 
@@ -23,7 +23,7 @@ A demonstration video showcasing the functionalities of Dazzla VoiceBot is avail
 3. **Obstacle Detection:** Utilizes OpenVINO for real-time object detection to enhance mobility.
 4. **Entertainment:** Provides access to audio books and music for relaxation.
 
-## Usage of Intel Tools
+## Usage of Intel Tools 🔧⚒️
 
 "Intel Developer Cloud's resources expedited "ssdlite_mobilenet_v2 model" development, focusing on Obstacles Detection enhancing accessibility for visually impaired individuals. Leveraging Coco dataset for training and OpenVINO for detecting, our system achieves real-time object recognition, voice synthesis, and efficient edge device deployment, revolutionizing assistive technology."
 
@@ -33,7 +33,7 @@ OpenVINO plays a pivotal role in our obstacle detection system within the voice 
 
  This ensures efficient performance without compromising accuracy, crucial for enhancing accessibility. Leveraging "ssdlite_mobilenet_v2 model" facilitated by OpenVINO, our system empowers users to walk through their environment without dependencies, providing auditory feedback about detected objects. This seamless interaction between OpenVINO-powered obstacle detection and our voice bot facilitates a more inclusive and independent experience for visually challenged individuals, marking a significant advancement in assistive technology.
  
-## Block Diagram
+## Block Diagram 🗒️✏️
 
 ![WhatsApp Image 2024-03-28 at 2 30 43 PM](https://github.com/Vaishnavi-Rajasekaran/Digital_Dazzlers/assets/144234137/edbc342c-fb43-4a71-9edf-66b8071a83b4)
 
@@ -56,7 +56,7 @@ Additionally, the backend can incorporate logic for scheduling reminders, provid
 
 OpenVINO is employed for real-time object detection and recognition, with pre-trained deep learning models like SSD MobileNet V2 being optimized for deployment on edge devices.
 
-## What does it do?
+## What does it do? 📋
 
 The voice bot developed for visually challenged individuals serves as a comprehensive assistive system, catering to various aspects of their daily lives. 
 
