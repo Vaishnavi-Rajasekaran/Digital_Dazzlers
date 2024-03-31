@@ -25,8 +25,14 @@ A demonstration video showcasing the functionalities of Dazzla VoiceBot is avail
 
 ## Usage of Intel Tools
 
-The project utilizes Intel Developer Cloud's resources for the development of the obstacle detection feature. OpenVINO, in particular, is leveraged for real-time object detection and recognition, enhancing accessibility for visually impaired individuals.
+"Intel Developer Cloud's resources expedited "ssdlite_mobilenet_v2 model" development, focusing on Obstacles Detection enhancing accessibility for visually impaired individuals. Leveraging Coco dataset for training and OpenVINO for detecting, our system achieves real-time object recognition, voice synthesis, and efficient edge device deployment, revolutionizing assistive technology."
 
+### Obstacle Detection:
+
+OpenVINO plays a pivotal role in our obstacle detection system within the voice bot. By harnessing the power of OpenVINO, we streamline real-time object detection and recognition, ensuring visually impaired individuals can effectively perceive their surroundings. The integration involves converting pre-trained models into optimized inference models suitable for deployment on edge devices.
+
+ This ensures efficient performance without compromising accuracy, crucial for enhancing accessibility. Leveraging "ssdlite_mobilenet_v2 model" facilitated by OpenVINO, our system empowers users to walk through their environment without dependencies, providing auditory feedback about detected objects. This seamless interaction between OpenVINO-powered obstacle detection and our voice bot facilitates a more inclusive and independent experience for visually challenged individuals, marking a significant advancement in assistive technology.
+ 
 ## Block Diagram
 
 [Insert Block Diagram here]
@@ -35,11 +41,15 @@ The project utilizes Intel Developer Cloud's resources for the development of th
 
 ### Frontend (UI)
 
-The frontend of the voicebot is implemented using Tkinter, providing a graphical user interface for user interaction.
+The frontend of the voicebot can be implemented using a graphical user interface (GUI) built with a framework like Tkinter, which provides the necessary elements for user interaction.
+Tkinter can be used to create windows, buttons, text fields, etc., allowing users to input voice commands and receive textual or auditory feedback.
 
 ### Backend (Python)
 
-The backend of the voicebot is developed in Python, utilizing libraries such as speech_recognition, pyttsx3, and Wikipedia for speech recognition, text-to-speech conversion, and accessing information.
+The backend of the voicebot can be developed using Python, which serves as the core logic for processing user commands, interacting with external APIs, and generating responses.
+Python libraries such as speech_recognition, pyttsx3, and Wikipedia can be utilized for speech recognition, text-to-speech conversion, and accessing information from Wikipedia, respectively.
+The backend code can include functions for handling various user queries, such as retrieving weather information, playing music, sending WhatsApp messages, providing fitness tips, detecting obstacles using OpenVINO, making phone calls, etc.
+Additionally, the backend can incorporate logic for scheduling reminders, providing health and wellness advice, and responding to general inquiries.
 
 ### Models Used
 
@@ -47,11 +57,18 @@ OpenVINO is employed for real-time object detection and recognition, with pre-tr
 
 ## What does it do?
 
-Dazzla VoiceBot serves as a comprehensive assistive system for visually challenged individuals, offering functionalities such as information access, task assistance, obstacle detection, and entertainment.
+The voice bot developed for visually challenged individuals serves as a comprehensive assistive system, catering to various aspects of their daily lives. 
 
-## How we built it
+-In terms of information access, the voice bot provides essential updates such as news and weather forecasts, ensuring users stay informed about current events and upcoming weather conditions. Additionally, it integrates with Google to provide access to a wide range of information, enabling users to search for relevant content and receive answers to their queries in real-time.
 
-The project involved developing both the frontend and backend components of the voicebot, integrating speech recognition, text-to-speech conversion, and deep learning models for object detection.
+-daily task assistance, the voice bot offers functionalities like making phone calls, sending WhatsApp messages, and greeting users with personalized messages. This streamlines communication tasks and enhances social connectivity for visually impaired individuals, allowing them to stay in touch with friends, family, and colleagues more efficiently.
+
+-Obstacle detection is a crucial feature of the voice bot, leveraging deep learning techniques and tools like OpenVINO to achieve real-time object detection and recognition. This capability empowers users to perceive their surroundings and navigate safely, reducing the risk of accidents and increasing independence in mobility.
+
+-In terms of entertainment, the voice bot provides access to audio books and music, offering users a source of enjoyment and relaxation. Whether they wish to listen to their favorite novels or unwind with soothing music, the voice bot ensures that entertainment is easily accessible and enjoyable for visually impaired individuals.
+
+-Overall, the voice bot represents a significant advancement in assistive technology, offering a user-friendly solution that addresses the diverse needs of visually challenged individuals. From accessing information and performing daily tasks to navigating their surroundings and enjoying entertainment, the voice bot promotes inclusivity and independence, enriching the lives of its users in meaningful ways.
+
 
 ## References
 
