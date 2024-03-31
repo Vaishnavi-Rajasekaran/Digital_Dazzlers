@@ -12,11 +12,11 @@
 - **Communication:** Seamlessly connect with calls and WhatsApp Messages.
 - **Voice Synthesis:** Access information via clear, natural voice.
 
-## Demonstration 
+## Demonstration 📌
 
 A demonstration video showcasing the functionalities of Dazzla VoiceBot is Here .
 
-## Performances
+## Performances 📈
 
 1. **Task Assistance:** Provides support for making phone calls, sending WhatsApp messages, and other daily tasks.
 2. **Information Access:** Accesses information such as news, weather forecasts, and general queries.
@@ -27,7 +27,7 @@ A demonstration video showcasing the functionalities of Dazzla VoiceBot is Here 
 
 "Intel Developer Cloud's resources expedited "ssdlite_mobilenet_v2 model" development, focusing on Obstacles Detection enhancing accessibility for visually impaired individuals. Leveraging Coco dataset for training and OpenVINO for detecting, our system achieves real-time object recognition, voice synthesis, and efficient edge device deployment, revolutionizing assistive technology."
 
-### Obstacle Detection:
+### Obstacle Detection:🔍
 
 OpenVINO plays a pivotal role in our obstacle detection system within the voice bot. By harnessing the power of OpenVINO, we streamline real-time object detection and recognition, ensuring visually impaired individuals can effectively perceive their surroundings. The integration involves converting pre-trained models into optimized inference models suitable for deployment on edge devices.
 
@@ -38,7 +38,7 @@ OpenVINO plays a pivotal role in our obstacle detection system within the voice 
 ![WhatsApp Image 2024-03-28 at 2 30 43 PM](https://github.com/Vaishnavi-Rajasekaran/Digital_Dazzlers/assets/144234137/edbc342c-fb43-4a71-9edf-66b8071a83b4)
 
 
-## Built With
+## Built With 🛠️☘️
 
 ### Frontend (UI)
 
@@ -52,7 +52,7 @@ Python libraries such as speech_recognition, pyttsx3, and Wikipedia can be utili
 The backend code can include functions for handling various user queries, such as retrieving weather information, playing music, sending WhatsApp messages, providing fitness tips, detecting obstacles using OpenVINO, making phone calls, etc.
 Additionally, the backend can incorporate logic for scheduling reminders, providing health and wellness advice, and responding to general inquiries.
 
-### Models Used
+### Models Used 💫
 
 OpenVINO is employed for real-time object detection and recognition, with pre-trained deep learning models like SSD MobileNet V2 being optimized for deployment on edge devices.
 
@@ -71,7 +71,7 @@ The voice bot developed for visually challenged individuals serves as a comprehe
 - Overall, the voice bot represents a significant advancement in assistive technology, offering a user-friendly solution that addresses the diverse needs of visually challenged individuals. From accessing information and performing daily tasks to navigating their surroundings and enjoying entertainment, the voice bot promotes inclusivity and independence, enriching the lives of its users in meaningful ways.
 
 
-## References
+## References 📝
 
 1. [Voice Activated Personal Assistant: Acceptability of Use in the Public Space](https://link.springer.com/chapter/10.1007/978-3-319-07863-2_32)
 2. [Voice Assistant Using Python](https://www.ijirt.org/research-paper/publication/2/IJIRT102042.pdf)
