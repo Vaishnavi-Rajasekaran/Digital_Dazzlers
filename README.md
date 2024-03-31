@@ -35,7 +35,7 @@ OpenVINO plays a pivotal role in our obstacle detection system within the voice 
  
 ## Block Diagram 🗒️✏️
 
-<img src="https://github.com/Vaishnavi-Rajasekaran/Digital_Dazzlers/assets/144234137/edbc342c-fb43-4a71-9edf-66b8071a83b4" alt="WhatsApp Image 2024-03-28" width="300" height="200">
+<img src="https://github.com/Vaishnavi-Rajasekaran/Digital_Dazzlers/assets/144234137/edbc342c-fb43-4a71-9edf-66b8071a83b4" alt="WhatsApp Image 2024-03-28" width="500" height="400">
 
 
 
