@@ -60,15 +60,15 @@ OpenVINO is employed for real-time object detection and recognition, with pre-tr
 
 The voice bot developed for visually challenged individuals serves as a comprehensive assistive system, catering to various aspects of their daily lives. 
 
--In terms of information access, the voice bot provides essential updates such as news and weather forecasts, ensuring users stay informed about current events and upcoming weather conditions. Additionally, it integrates with Google to provide access to a wide range of information, enabling users to search for relevant content and receive answers to their queries in real-time.
+- In terms of information access, the voice bot provides essential updates such as news and weather forecasts, ensuring users stay informed about current events and upcoming weather conditions. Additionally, it integrates with Google to provide access to a wide range of information, enabling users to search for relevant content and receive answers to their queries in real-time.
 
--daily task assistance, the voice bot offers functionalities like making phone calls, sending WhatsApp messages, and greeting users with personalized messages. This streamlines communication tasks and enhances social connectivity for visually impaired individuals, allowing them to stay in touch with friends, family, and colleagues more efficiently.
+- daily task assistance, the voice bot offers functionalities like making phone calls, sending WhatsApp messages, and greeting users with personalized messages. This streamlines communication tasks and enhances social connectivity for visually impaired individuals, allowing them to stay in touch with friends, family, and colleagues more efficiently.
 
--Obstacle detection is a crucial feature of the voice bot, leveraging deep learning techniques and tools like OpenVINO to achieve real-time object detection and recognition. This capability empowers users to perceive their surroundings and navigate safely, reducing the risk of accidents and increasing independence in mobility.
+- Obstacle detection is a crucial feature of the voice bot, leveraging deep learning techniques and tools like OpenVINO to achieve real-time object detection and recognition. This capability empowers users to perceive their surroundings and navigate safely, reducing the risk of accidents and increasing independence in mobility.
 
--In terms of entertainment, the voice bot provides access to audio books and music, offering users a source of enjoyment and relaxation. Whether they wish to listen to their favorite novels or unwind with soothing music, the voice bot ensures that entertainment is easily accessible and enjoyable for visually impaired individuals.
+- In terms of entertainment, the voice bot provides access to audio books and music, offering users a source of enjoyment and relaxation. Whether they wish to listen to their favorite novels or unwind with soothing music, the voice bot ensures that entertainment is easily accessible and enjoyable for visually impaired individuals.
 
--Overall, the voice bot represents a significant advancement in assistive technology, offering a user-friendly solution that addresses the diverse needs of visually challenged individuals. From accessing information and performing daily tasks to navigating their surroundings and enjoying entertainment, the voice bot promotes inclusivity and independence, enriching the lives of its users in meaningful ways.
+- Overall, the voice bot represents a significant advancement in assistive technology, offering a user-friendly solution that addresses the diverse needs of visually challenged individuals. From accessing information and performing daily tasks to navigating their surroundings and enjoying entertainment, the voice bot promotes inclusivity and independence, enriching the lives of its users in meaningful ways.
 
 
 ## References
