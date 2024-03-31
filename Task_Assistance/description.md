@@ -25,9 +25,6 @@ The provided Python script is a part of Dazzla, enabling users to interact with 
 
 ## Dependencies
 
-- Python
-- pyttsx3
-- speech_recognition
 - twilio
 - pywhatkit
 - pyautogui
