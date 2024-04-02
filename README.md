@@ -3,7 +3,7 @@
 
 ## Introduction
 
-🤖 Dazzla VoiceBot is a cutting-edge assistive technology designed to empower visually challenged individuals by providing them with a voice-enabled companion for navigating the world with confidence and independence. This README provides an overview of the project, its functionalities, architecture, and how it was built.
+🤖 Dazzla VoiceBot is a state of the art assistive innovation intended to engage outwardly tested people by giving them a voice-empowered ally for exploring the world with certainty and freedom. This README gives an outline of the undertaking, its functionalities, engineering, and the way things were constructed.
 
 ## Features ⚡
 
