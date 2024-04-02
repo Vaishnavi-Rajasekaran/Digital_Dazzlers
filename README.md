@@ -15,7 +15,7 @@
 ## Demonstration 📌
 
 A demonstration video showcasing the functionalities of Dazzla VoiceBot is Here .
-![Video](https://github.com/Vaishnavi-Rajasekaran/Digital_Dazzlers/assets/144234137/b65a3089-d358-4edc-8ea2-eb1623fcd98a)
+![](https://github.com/Vaishnavi-Rajasekaran/Digital_Dazzlers/assets/144234137/b65a3089-d358-4edc-8ea2-eb1623fcd98a)
 
 ## Performances 📈
 
